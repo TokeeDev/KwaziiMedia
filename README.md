@@ -13,9 +13,6 @@ Currently, I'm deepening my understanding of JavaScript, HTML, and CSS. I'm also
 - **Operating Systems**: Windows and Mac
 - **Text Editors**: vsCode
 
-## 📈 My GitHub Stats
-(https://github.com/kwaziimedia/github-readme-stats)
-
 ## 📫 How to Reach Me
 - Email: christianaguilar2223@gmail.com
 - LinkedIn: www.linkedin.com/in/christian-aguilar-6a858a297
