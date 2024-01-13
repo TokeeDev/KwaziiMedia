@@ -1,21 +1,25 @@
-# KwaziiMedia GitHub Profile 👋
 
-Hello there! I'm KwaziiMedia, a coding enthusiast inspired by tech-centric movies like Snowden and The Social Network. My coding journey kicked off when I stumbled upon Coding Dojo through a friend, sparking a newfound passion for programming.
+# Hi there, I'm Christian! 👋
 
-## About Me
-- 🎥 **Inspiration:** Movies like Snowden and The Social Network ignited my interest in coding.
-- 🚀 **Journey:** Started teaching myself to code after learning about Coding Dojo from a friend.
+## 🚀 About Me
+I'm a self-taught developer based in Florida, specializing in JavaScript, HTML, and CSS. My coding journey began in September 2023, and since then, I've been documenting my learning experiences and progress right here on GitHub.
 
-## Tech Passion
-- 💡 **Passionate About:** AR (Augmented Reality) and JavaScript to craft exceptional software experiences.
+## 🎯 What I'm Focusing On
+Currently, I'm deepening my understanding of JavaScript, HTML, and CSS. I'm also exploring other technologies and tools to broaden my skill set.
 
-## Current Project
-- ⏳ **Countdown Timer:** Currently working on a countdown timer using JS, HTML, and CSS.
+## 🛠 Skills and Tools
+- **Languages**: JavaScript, HTML, CSS
+- **Version Control**: Git, GitHub
+- **Operating Systems**: Windows and Mac
+- **Text Editors**: vsCode
 
-## Coding Challenges
-- 🧠 **Toughest Moments:** Overcoming the initial hurdles of grasping coding concepts and battling imposter syndrome.
+## 📈 My GitHub Stats
+(https://github.com/kwaziimedia/github-readme-stats)
 
-## Advice for Learners
-- 🌈 **Words of Wisdom:** Remember, everyone's learning journey is unique. Embrace the challenges, celebrate the victories, and keep coding!
+## 📫 How to Reach Me
+- Email: [christianaguilar2223@gmail.com]
+- LinkedIn: [www.linkedin.com/in/christian-aguilar-6a858a297]
 
-Feel free to explore my projects and connect with me on my coding adventures! 🚀 #CodingJourney #TechEnthusiast
+Thank you for visiting my GitHub profile. Feel free to explore my repositories!
+```
+
