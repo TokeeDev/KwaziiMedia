@@ -17,8 +17,8 @@ Currently, I'm deepening my understanding of JavaScript, HTML, and CSS. I'm also
 (https://github.com/kwaziimedia/github-readme-stats)
 
 ## 📫 How to Reach Me
-- Email: [christianaguilar2223@gmail.com]
-- LinkedIn: [www.linkedin.com/in/christian-aguilar-6a858a297]
+- Email: christianaguilar2223@gmail.com
+- LinkedIn: www.linkedin.com/in/christian-aguilar-6a858a297
 
 Thank you for visiting my GitHub profile. Feel free to explore my repositories!
 ```
