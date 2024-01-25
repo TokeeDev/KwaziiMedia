@@ -11,12 +11,11 @@ Currently, I'm deepening my understanding of JavaScript, HTML, and CSS. I'm also
 - **Languages**: JavaScript, HTML, CSS
 - **Version Control**: Git, GitHub
 - **Operating Systems**: Windows and Mac
-- **Text Editors**: vsCode
+- **Text Editors**: VSCode
 
 ## 📫 How to Reach Me
 - Email: christianaguilar2223@gmail.com
 - LinkedIn: www.linkedin.com/in/christian-aguilar-6a858a297
 
 Thank you for visiting my GitHub profile. Feel free to explore my repositories!
-```
 
