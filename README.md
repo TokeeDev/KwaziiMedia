@@ -10,7 +10,7 @@ Currently, I'm deepening my understanding of JavaScript, HTML, and CSS. I'm also
 ## 🛠 Skills and Tools
 - **Languages**: JavaScript, HTML, CSS
 - **Version Control**: Git, GitHub
-- **Operating Systems**: Windows and Mac
+- **Operating Systems**: Windows Mac Linux
 - **Text Editors**: VSCode
 
 ## 📫 How to Reach Me
